@@ -35,7 +35,9 @@
     "sweetalert": "^2.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
