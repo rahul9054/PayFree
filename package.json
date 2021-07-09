@@ -40,7 +40,6 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Rahul",
+  "license": "ISC"
 }
