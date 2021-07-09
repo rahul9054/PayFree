@@ -1,7 +1,8 @@
 # PayFree
 
 ## About
-
+Pay Free aims to convert the wallet balance of several wallets that do not allow to transfer the amount
+to the bank like Amazon, Mobikwik etc.
 
 
 ## Project Link
