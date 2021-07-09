@@ -6,7 +6,7 @@
 
 ## Project Link
 
-- [https://inshare-rk.herokuapp.com/](https://inshare-rk.herokuapp.com/)
+- [https://payfree.herokuapp.com/](https://payfree.herokuapp.com/)
 
 ## Running Application Locally
 
