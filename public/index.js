@@ -51,7 +51,8 @@ function checkout(order_id , key , phone , email){
     },
     "prefill": {
       "email": email,
-      "contact": phone
+      "contact": phone,
+      "method" : "wallet"
   },
     "theme": {
         "color": "#0EB9F2"
